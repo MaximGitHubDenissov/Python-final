@@ -1,0 +1,1030 @@
+result .csv False C:\Users\77017\PycharmProjects\python_data_hw_8
+result .json False C:\Users\77017\PycharmProjects\python_data_hw_8
+result .pickle False C:\Users\77017\PycharmProjects\python_data_hw_8
+task1 .py False C:\Users\77017\PycharmProjects\python_data_hw_8
+.git  True C:\Users\77017\PycharmProjects\python_data_hw_8
+.idea  True C:\Users\77017\PycharmProjects\python_data_hw_8
+Utilities  True C:\Users\77017\PycharmProjects\python_data_hw_8
+venv  True C:\Users\77017\PycharmProjects\python_data_hw_8
+COMMIT_EDITMSG  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+config  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+description  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+HEAD  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+index  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+hooks  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+info  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+logs  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+objects  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+refs  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git
+applypatch-msg .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+commit-msg .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+fsmonitor-watchman .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+post-update .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-applypatch .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-commit .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-merge-commit .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-push .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-rebase .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+pre-receive .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+prepare-commit-msg .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+push-to-checkout .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+sendemail-validate .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+update .sample False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\hooks
+exclude  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\info
+HEAD  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs
+refs  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs
+heads  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs\refs
+remotes  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs\refs
+master  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs\refs\heads
+origin  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs\refs\remotes
+master  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\logs\refs\remotes\origin
+08  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+0f  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+10  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+13  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+26  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+55  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+5f  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+66  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+74  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+75  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+94  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+97  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+b6  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+c4  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+c9  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+cf  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+f5  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+info  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+pack  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects
+42a833b83774f906635a19ee8c34bbfbe7e723  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\08
+fdc9ce909600cf7891a0a5950dfa1f8301d2e3  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\0f
+5ce2da2d6447d11dfe32bfb846c3d5b199fc99  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\10
+e8d7726cac6b4c4e85a3a60704d55c2d45e7ba  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\13
+d33521af10bcc7fd8cea344038eaaeb78d0ef5  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\26
+f26d621fcf24d3c9bc050b6e90b2154bbddcb0  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\55
+72b921a3a4e8a844c17d876c9a72ba4b9e43ac  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\5f
+9dac473293114e553e0d9865c86ceb94395659  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\66
+d515a027de98657e9d3d5f0f1831882fd81374  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\74
+2d23278f4997cb483ea835a6e2ac2c874fbee5  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\75
+a25f7f4cb416c083d265558da75d457237d671  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\94
+824ec9b0149e48c91dce4fee530335b327c686  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\97
+f7f18511a53641e5a5143db40adcb994cd27ad  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\b6
+8b678b98a5cdf8df9928f4ffe27130d190a293  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\c4
+076245110601b83d566d9b144b0f616198d3c6  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\c9
+6c6e843b4816e7ee0f73bdbb41e43dc42fb749  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\cf
+de6e71d7f4ce279f302c602c4f15a66b38b593  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\objects\f5
+heads  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs
+remotes  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs
+tags  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs
+master  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs\heads
+origin  True C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs\remotes
+master  False C:\Users\77017\PycharmProjects\python_data_hw_8\.git\refs\remotes\origin
+.gitignore  False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+misc .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+modules .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+python_data_hw_8 .iml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+vcs .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+workspace .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+inspectionProfiles  True C:\Users\77017\PycharmProjects\python_data_hw_8\.idea
+profiles_settings .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\.idea\inspectionProfiles
+task1 .py False C:\Users\77017\PycharmProjects\python_data_hw_8\Utilities
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\Utilities
+.gitignore  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv
+pyvenv .cfg False C:\Users\77017\PycharmProjects\python_data_hw_8\venv
+Include  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv
+Lib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv
+Scripts  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv
+site-packages  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib
+distutils-precedence .pth False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+pip-23.2.1 .virtualenv False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+setuptools-68.2.0 .virtualenv False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+wheel-0.41.2 .virtualenv False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+_virtualenv .pth False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+_virtualenv .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+pip  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+pip-23.2.1.dist-info  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+pkg_resources  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+setuptools  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+setuptools-68.2.0.dist-info  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+wheel  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+wheel-0.41.2.dist-info  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+_distutils_hack  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages
+py .typed False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+__pip-runner__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+_internal  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+_vendor  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip
+build_env .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+configuration .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+main .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+pyproject .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+self_outdated_check .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+wheel_builder .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+cli  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+commands  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+distributions  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+index  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+locations  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+metadata  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+models  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+network  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+operations  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+req  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+resolution  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+utils  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+vcs  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal
+autocompletion .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+base_command .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+cmdoptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+command_context .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+main .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+main_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+progress_bars .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+req_command .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+spinners .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+status_codes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\cli
+cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+check .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+completion .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+configuration .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+debug .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+download .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+freeze .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+hash .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+help .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+index .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+inspect .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+install .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+list .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+search .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+show .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+uninstall .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\commands
+base .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\distributions
+installed .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\distributions
+sdist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\distributions
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\distributions
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\distributions
+collector .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\index
+package_finder .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\index
+sources .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\index
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\index
+base .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\locations
+_distutils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\locations
+_sysconfig .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\locations
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\locations
+base .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata
+pkg_resources .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata
+_json .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata
+importlib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata
+_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata\importlib
+_dists .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata\importlib
+_envs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata\importlib
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\metadata\importlib
+candidate .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+direct_url .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+format_control .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+index .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+installation_report .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+link .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+scheme .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+search_scope .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+selection_prefs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+target_python .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\models
+auth .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+download .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+lazy_wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+session .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+xmlrpc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\network
+check .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+freeze .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+prepare .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+build  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+install  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations
+build_tracker .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+metadata_editable .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+metadata_legacy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+wheel_editable .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+wheel_legacy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\build
+editable_legacy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\install
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\install
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\operations\install
+constructors .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+req_file .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+req_install .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+req_set .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+req_uninstall .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\req
+base .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution
+legacy  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution
+resolvelib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution
+resolver .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\legacy
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\legacy
+base .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+candidates .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+factory .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+found_candidates .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+provider .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+reporter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+requirements .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+resolver .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\resolution\resolvelib
+appdirs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+compatibility_tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+datetime .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+deprecation .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+direct_url_helpers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+egg_link .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+encoding .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+entrypoints .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+filesystem .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+filetypes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+glibc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+hashes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+inject_securetransport .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+logging .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+misc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+models .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+packaging .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+setuptools_build .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+subprocess .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+temp_dir .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+unpacking .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+urls .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+virtualenv .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+_jaraco_text .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+_log .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\utils
+bazaar .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+git .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+mercurial .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+subversion .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+versioncontrol .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_internal\vcs
+six .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+typing_extensions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+vendor .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+cachecontrol  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+certifi  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+chardet  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+colorama  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+distlib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+distro  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+idna  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+msgpack  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+packaging  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+pkg_resources  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+platformdirs  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+pygments  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+pyparsing  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+pyproject_hooks  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+requests  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+resolvelib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+rich  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+tenacity  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+tomli  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+urllib3  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+webencodings  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor
+adapter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+controller .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+filewrapper .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+heuristics .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+serialize .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+wrapper .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+_cmd .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+caches  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol
+file_cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+redis_cache .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\cachecontrol\caches
+cacert .pem False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\certifi
+core .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\certifi
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\certifi
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\certifi
+big5freq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+big5prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+chardistribution .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+charsetgroupprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+charsetprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+codingstatemachine .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+codingstatemachinedict .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+cp949prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+enums .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+escprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+escsm .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+eucjpprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+euckrfreq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+euckrprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+euctwfreq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+euctwprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+gb2312freq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+gb2312prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+hebrewprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+jisfreq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+johabfreq .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+johabprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+jpcntx .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langbulgarianmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langgreekmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langhebrewmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langhungarianmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langrussianmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langthaimodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+langturkishmodel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+latin1prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+macromanprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+mbcharsetprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+mbcsgroupprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+mbcssm .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+resultdict .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+sbcharsetprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+sbcsgroupprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+sjisprober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+universaldetector .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+utf1632prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+utf8prober .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+cli  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+metadata  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet
+chardetect .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet\cli
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet\cli
+languages .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet\metadata
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\chardet\metadata
+ansi .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+ansitowin32 .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+initialise .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+win32 .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+winterm .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+tests  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama
+ansitowin32_test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+ansi_test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+initialise_test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+isatty_test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+winterm_test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\colorama\tests
+compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+database .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+index .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+locators .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+manifest .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+markers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+resources .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+scripts .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+t32 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+t64-arm .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+t64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+w32 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+w64-arm .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+w64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distlib
+distro .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distro
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distro
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\distro
+codec .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+core .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+idnadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+intranges .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+package_data .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+uts46data .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\idna
+exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\msgpack
+ext .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\msgpack
+fallback .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\msgpack
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\msgpack
+markers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+requirements .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+specifiers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+_manylinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+_musllinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+_structures .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+__about__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\packaging
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pkg_resources
+android .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+api .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+macos .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+unix .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+windows .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\platformdirs
+cmdline .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+console .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+filter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+formatter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+lexer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+modeline .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+plugin .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+regexopt .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+scanner .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+sphinxext .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+style .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+token .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+unistring .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+filters  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+formatters  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+lexers  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+styles  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\filters
+bbcode .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+groff .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+html .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+img .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+irc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+latex .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+other .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+pangomarkup .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+rtf .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+svg .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+terminal .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+terminal256 .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+_mapping .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\formatters
+python .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\lexers
+_mapping .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\lexers
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\lexers
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pygments\styles
+actions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+common .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+core .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+helpers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+results .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+testing .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+unicode .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+diagram  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyparsing\diagram
+_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+_impl .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+_in_process  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks
+_in_process .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process
+adapters .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+api .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+auth .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+certs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+cookies .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+help .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+hooks .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+models .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+packages .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+sessions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+status_codes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+structures .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+_internal_utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+__version__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\requests
+providers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+reporters .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+resolvers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+structs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+compat  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib
+collections_abc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\resolvelib\compat
+abc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+align .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+ansi .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+bar .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+box .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+cells .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+color .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+color_triplet .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+columns .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+console .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+constrain .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+containers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+control .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+default_styles .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+diagnose .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+emoji .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+errors .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+filesize .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+file_proxy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+highlighter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+json .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+jupyter .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+layout .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+live .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+live_render .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+logging .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+markup .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+measure .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+padding .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+pager .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+palette .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+panel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+pretty .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+progress .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+progress_bar .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+prompt .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+protocol .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+region .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+repr .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+rule .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+scope .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+screen .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+segment .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+spinner .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+status .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+style .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+styled .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+syntax .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+table .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+terminal_theme .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+text .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+theme .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+themes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+traceback .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+tree .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_cell_widths .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_emoji_codes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_emoji_replace .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_export_format .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_extension .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_fileno .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_inspect .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_log_render .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_loop .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_null_file .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_palettes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_pick .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_ratio .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_spinners .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_stack .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_timer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_win32_console .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_windows .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_windows_renderer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+_wrap .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\rich
+after .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+before .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+before_sleep .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+nap .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+retry .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+stop .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+tornadoweb .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+wait .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+_asyncio .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+_utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tenacity
+_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tomli
+_re .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tomli
+_types .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tomli
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\tomli
+connection .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+connectionpool .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+fields .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+filepost .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+poolmanager .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+request .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+response .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+_collections .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+_version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+contrib  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+packages  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+util  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3
+appengine .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+ntlmpool .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+pyopenssl .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+securetransport .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+socks .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+_appengine_environ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+_securetransport  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib
+bindings .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+low_level .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport
+six .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+backports  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages
+makefile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+weakref_finalize .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports
+connection .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+proxy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+queue .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+request .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+response .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+retry .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+ssltransport .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+ssl_ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+ssl_match_hostname .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+timeout .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+url .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+wait .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\urllib3\util
+labels .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\webencodings
+mklabels .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\webencodings
+tests .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\webencodings
+x_user_defined .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\webencodings
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip\_vendor\webencodings
+AUTHORS .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+entry_points .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+INSTALLER  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+LICENSE .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+METADATA  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+RECORD  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+top_level .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+WHEEL  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pip-23.2.1.dist-info
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources
+extern  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources
+_vendor  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\extern
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\extern
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\extern\__pycache__
+typing_extensions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+zipp .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+importlib_resources  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+jaraco  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+more_itertools  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+packaging  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+platformdirs  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor
+abc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+readers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+simple .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+_adapters .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+_common .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+_itertools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+_legacy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\importlib_resources
+context .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+functools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+text  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\text
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\text
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\text\__pycache__
+context.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\__pycache__
+functools.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\jaraco\__pycache__
+more .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools
+recipes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools
+more.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools\__pycache__
+recipes.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\more_itertools\__pycache__
+markers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+requirements .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+specifiers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_elffile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_manylinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_musllinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_structures .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+_tokenizer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging
+markers.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+requirements.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+specifiers.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+tags.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+utils.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+version.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_elffile.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_manylinux.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_musllinux.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_parser.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_structures.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+_tokenizer.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\packaging\__pycache__
+android .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+api .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+macos .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+unix .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+windows .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs
+api.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs\__pycache__
+version.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs\__pycache__
+windows.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\platformdirs\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\_vendor\__pycache__
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\pkg_resources\__pycache__
+archive_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+build_meta .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+cli-32 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+cli-64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+cli-arm64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+cli .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+depends .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+dep_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+discovery .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+dist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+errors .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+extension .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+glob .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+gui-32 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+gui-64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+gui-arm64 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+gui .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+installer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+launch .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+logging .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+monkey .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+msvc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+namespaces .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+package_index .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+py312compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+sandbox .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+script (dev) .tmpl False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+script .tmpl False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+unicode_utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+warnings .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+windows_support .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_core_metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_entry_points .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_imp .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_importlib .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_itertools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_normalization .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_path .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_reqs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+command  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+config  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+extern  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_distutils  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+_vendor  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools
+alias .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+bdist_egg .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+bdist_rpm .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+build .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+build_clib .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+build_ext .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+build_py .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+develop .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+dist_info .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+easy_install .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+editable_wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+egg_info .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+install .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+install_egg_info .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+install_lib .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+install_scripts .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+launcher manifest .xml False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+register .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+rotate .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+saveopts .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+sdist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+setopt .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+test .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+upload .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+upload_docs .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+_requirestxt .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\command
+expand .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+pyprojecttoml .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+setupcfg .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+_apply_pyprojecttoml .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+_validate_pyproject  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config
+error_reporting .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+extra_validations .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+fastjsonschema_exceptions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+fastjsonschema_validations .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+formats .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\config\_validate_pyproject
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\extern
+archive_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+bcppcompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+ccompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+cmd .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+config .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+core .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+cygwinccompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+debug .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+dep_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+dir_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+dist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+errors .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+extension .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+fancy_getopt .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+filelist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+file_util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+log .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+msvc9compiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+msvccompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+py38compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+py39compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+spawn .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+sysconfig .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+text_file .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+unixccompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+versionpredicate .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+_collections .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+_functools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+_log .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+_macos_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+_msvccompiler .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+command  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils
+bdist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+bdist_dumb .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+bdist_rpm .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+build .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+build_clib .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+build_ext .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+build_py .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+build_scripts .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+check .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+clean .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+config .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install_data .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install_egg_info .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install_headers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install_lib .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+install_scripts .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+py37compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+register .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+sdist .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+upload .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+_framework_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_distutils\command
+ordered_set .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+typing_extensions .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+zipp .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+importlib_metadata  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+importlib_resources  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+jaraco  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+more_itertools  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+packaging  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+tomli  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor
+_adapters .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_collections .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_functools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_itertools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_meta .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_py39compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+_text .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_metadata
+abc .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+readers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+simple .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+_adapters .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+_common .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+_compat .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+_itertools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+_legacy .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\importlib_resources
+context .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\jaraco
+functools .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\jaraco
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\jaraco
+text  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\jaraco
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\jaraco\text
+more .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+recipes .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\more_itertools
+markers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+requirements .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+specifiers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_elffile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_manylinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_musllinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_structures .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_tokenizer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\packaging
+_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\tomli
+_re .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\tomli
+_types .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\tomli
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools\_vendor\tomli
+entry_points .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+INSTALLER  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+LICENSE  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+METADATA  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+RECORD  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+top_level .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+WHEEL  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\setuptools-68.2.0.dist-info
+bdist_wheel .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+macosx_libfile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+metadata .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+util .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+wheelfile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+_setuptools_logging .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+__main__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+cli  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+vendored  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel
+convert .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\cli
+pack .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\cli
+tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\cli
+unpack .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\cli
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\cli
+vendor .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored
+packaging  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored
+markers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+requirements .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+specifiers .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+tags .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+utils .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+version .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_elffile .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_manylinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_musllinux .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_parser .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_structures .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+_tokenizer .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel\vendored\packaging
+entry_points .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+INSTALLER  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+LICENSE .txt False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+METADATA  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+RECORD  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+WHEEL  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\wheel-0.41.2.dist-info
+override .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\_distutils_hack
+__init__ .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\_distutils_hack
+__pycache__  True C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\_distutils_hack
+__init__.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\_distutils_hack\__pycache__
+_virtualenv.cpython-310 .pyc False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Lib\site-packages\__pycache__
+activate  False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+activate .bat False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+activate .fish False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+activate .nu False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+activate .ps1 False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+activate_this .py False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+deactivate .bat False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pip-3.10 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pip .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pip3.10 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pip3 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pydoc .bat False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+python .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+pythonw .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+wheel-3.10 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+wheel .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+wheel3.10 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
+wheel3 .exe False C:\Users\77017\PycharmProjects\python_data_hw_8\venv\Scripts
